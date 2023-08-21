@@ -20,3 +20,5 @@ Result : b
 import pokdb
 db.rm('a') # A를 지웁니다.
 ```
+## 기타링크
+https://replit.com/@seeun0917/pokDB 에서 소스코드를 확인하세요!
