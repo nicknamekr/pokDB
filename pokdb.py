@@ -37,7 +37,7 @@ class db:
         data[self.dbcode].append({
             key : value
         })
-      with open('pokDBdb.json', 'w') as f:
+      with open('pokDBdb.jsonx', 'w') as f:
           json.dump(data, f, indent=4)
 
     def get(self, key):
