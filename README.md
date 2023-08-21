@@ -1,6 +1,6 @@
 # pokDB 
 ## Introduce pokDB
-pokDB는 "간단한" 데이터베이스 모듈입니다..<br>
+pokDB는 "간단한" 데이터베이스 모듈입니다.<br>
 pokDB.jsonx 라는 이름으로 실행 파일 폴더 내부에 DB 파일이 저장됩니다.<br>
 ## Usage
 ### DB Store & Get Examples
